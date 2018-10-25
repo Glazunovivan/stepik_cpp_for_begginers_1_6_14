@@ -78,34 +78,31 @@ int main() {
                     			}
                     			cout<<4<<" "<<y;
                 		}
-                		else
-                		{
-                    			if(b==0 && d==0)
-					{
-                    				if(a!=0)
-                        			{
-                            				x = e/a;
-                        			}
-                        			else
-                        			{
-                            				x = f/c;
-                        			}
-                        			cout<<3<<" "<<x;
-                    			}
-                    			else
-                    			{
-                        			if(b != 0)
-                        			{
-                            				n = e/b;
-                            				k = -a/b;
-                        			}
-                        			else
-                        			{
-                            				n = f/d;
-                            				k = -e/d;
-                        			}
-                        			cout<<1<<" "<<k<<" "<<n;
-                    			}
+                		else if(b==0 && d==0)
+				{
+                    			if(a!=0)
+                        		{
+                            			x = e/a;
+                        		}
+                        		else
+                        		{
+                            			x = f/c;
+                        		}
+                        		cout<<3<<" "<<x;
+                    		}
+                    		else 
+                    		{
+                        		if(b != 0)
+                        		{
+                            			n = e/b;
+                            			k = -a/b;
+                        		}
+                        		else
+                        		{
+                            			n = f/d;
+                            			k = -e/d;
+                        		}
+                        		cout<<1<<" "<<k<<" "<<n;
                 		}
             		}
 		}
