@@ -259,3 +259,26 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/task/task.sln
+/task/task/task.vcxproj.filters
+/task/task/task.vcxproj
+/task/task/task.cpp
+/task/task/pch.h
+/task/task/pch.cpp
+/task/task
+/task
+/ConsoleApplication2/ConsoleApplication2.sln
+/ConsoleApplication2/ConsoleApplication2/pch.h
+/ConsoleApplication2/ConsoleApplication2/pch.cpp
+/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.vcxproj.filters
+/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.vcxproj
+/ConsoleApplication2/ConsoleApplication2/ConsoleApplication2.cpp
+/ConsoleApplication2/ConsoleApplication2
+/ConsoleApplication2
+/ConsoleApplication1/ConsoleApplication1.sln
+/ConsoleApplication1/ConsoleApplication1/pch.h
+/ConsoleApplication1/ConsoleApplication1/pch.cpp
+/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.vcxproj.filters
+/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.vcxproj
+/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp
+/ConsoleApplication1/ConsoleApplication1
